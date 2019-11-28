@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
 	H = 9400
 	step = 2200
-	number = 4
+	number = 40
 
 	seed_ = 1.0000
 	density = 177.4000
